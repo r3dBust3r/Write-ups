@@ -1,4 +1,5 @@
 <h1>Rabbit Store</h1>
+<p><a target="_blank" href="https://tryhackme.com/room/rabbitstore">Challenge on TryHackMe</a></p>
 
 <div style="display: flex; align-items: center;">
     <img src="imgs/logo.png" style="width: 25%">
